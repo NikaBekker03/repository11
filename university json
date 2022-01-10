@@ -1,0 +1,99 @@
+ {"University":
+     [
+     {"Administration":[
+         {"Tom":
+             {"age":"57"},
+             {"experience":"20"},
+             {"gender":"Male"},
+             {"position":"Rector"}
+     },
+         {"Jerry":
+             {"age":"43"},
+             {"experience":"14"},
+             {"gender":"Male"},
+             {"position":"Deputy Rector"}
+     },
+         {"Lussy":
+             {"age":"30"},
+             {"experience":"6"},
+             {"gender":"Fimale"},
+             {"position":"Secretary"}
+     ]
+     },
+     {"Security Service":[
+         {"Bob":
+             {"age":"35"},
+             {"experience":"13"},
+             {"gender":"Male"},
+             {"position":"Senior Security Quard"}
+     }
+         {"Pitter":
+             {"age":"30"},
+             {"experience":"12"},
+             {"gender":"Male"},
+             {"position":"Deputy Senior Security Quard"}
+     }
+         {"Kevin":
+             {"age":"28"},
+             {"experience":"7"},
+             {"gender":"Male"},
+             {"position":"Junior Quard"}
+     ]
+     },
+     {"Teacher":[
+         {"Fiona":
+             {"age":"42"},
+             {"experience":"18"},
+             {"gender":"Fimale"}
+     },
+     {   {"Dilan":
+             {"age":"35"},
+             {"experience":"10"},
+             {"gender":"Male"}
+     },
+         {"Maria":
+             {"age":"51"},
+             {"experience":"26"},
+             {"gender":"Fimale"}
+     ]
+     },
+     {"Students":[
+         {"Alex":
+             {"age":"24"},
+             {"year of study":"3"},
+             {"scholarship":"Has"},
+             {"gender":"Male"}
+     },
+         {"Ron":
+             {"age":"27"},
+             {"year of study":"5"},
+             {"scholarship":"Does not have"},
+             {"gender":"Male"}
+     },
+         {"Mark":
+             {"age":"31"},
+             {"year of study":"6"},
+             {"scholarship":"Has"},
+             {"gender":"Male"}
+     ]
+     },
+     {"Department":
+         {"Gloria":
+             {"age":"50"}
+             {"experience":"23"},
+             {"gender":"Fimale"},
+             {"position":"Head Of Personnel Department"}
+         {"Mike":
+             {"age":"42"}
+             {"experience":"12"},
+             {"gender":"Male"},
+             {"position":"HR manager or HR specialist"}
+         {"John":
+             {"age":"39"},
+             {"experience":"10"},
+             {"gender":"Male"},
+             {"position":"HR Inspector"}
+     ]
+     }
+     
+     

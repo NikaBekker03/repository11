@@ -1,0 +1,33 @@
+<!--  XML  -->
+<breakfest_menu>
+ <food>
+  <name>Italian pasta</name>
+   <price>$7.65</price>
+   <description>pasta with cuttlefish ink and seafood</description>
+   <calories>200</calories>
+  </food>
+  <food>
+   <name>American Burger</name>
+   <price>$4.65</price>
+   <description>burger with tender veal with BBQ sauce, cheese and tomatoes</description>
+   <calories>250</calories>
+  </food>
+  <food>
+   <name>sushi</name>
+   <price>$10.95</price>
+   <description>sushi with salmon, philadelphia and avocado</description>
+   <calories>240</calories>
+  </food>
+  <food>
+   <name>Pizza</name>
+   <price>$7.60</price>
+   <description>pizza with veal, chicken, beef, tomatoes, mushrooms (served with 2 sauces of your choice - garlic and spicy</description>
+   <calories>270</calories>
+  </food>
+  <food>
+   <name>steak</name>
+   <price>$7.65</price>
+   <description>veal steak personally cooked by the chef with vegetables and spicy sauce (medium roast recommended)</description>
+   <calories>260</calories>
+  </food>
+ </breakfest_menu>
